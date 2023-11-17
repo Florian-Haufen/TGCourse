@@ -1,4 +1,2 @@
 # How it works
-<div id="header" align="center">
-  <img src="https://imgur.com/a/WZvAwjN"/>
-</div>
+![image]https://github.com/Florian-Haufen/TGCourse/blob/main/tbot.gif
