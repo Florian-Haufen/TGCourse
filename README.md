@@ -1,2 +1,4 @@
 # How it works
-https://imgur.com/a/WZvAwjN
+<div id="header" align="center">
+  <img src="https://imgur.com/a/WZvAwjN"/>
+</div>
