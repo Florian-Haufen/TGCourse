@@ -4,7 +4,7 @@ import requests
 
 keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
 
-bot = Bot(token='6788243257:AAGcZIEIXLArojfVMaExZir0QyHF-iu7V5Q', parse_mode='HTML')
+bot = Bot(token=bot2, parse_mode='HTML')
 dp = Dispatcher(bot)
 
 def get_doll():
