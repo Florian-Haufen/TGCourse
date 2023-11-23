@@ -1,6 +1,7 @@
 from aiogram import Bot, Dispatcher, types, executor
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 import requests
+from config import bot2
 
 keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
 
